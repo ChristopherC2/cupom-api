@@ -1,8 +1,5 @@
 package com.example.cupom.application.usecase;
 
-import com.example.cupom.model.dto.CreateCupomRequest;
-import com.example.cupom.model.dto.CupomResponse;
-import com.example.cupom.model.entity.Cupom;
 import com.example.cupom.repository.CupomRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
