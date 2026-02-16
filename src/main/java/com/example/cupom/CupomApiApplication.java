@@ -1,13 +1,12 @@
-package com.example.produto_api;
+package com.example.cupom;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProdutoApiApplication {
-
+public class CupomApiApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(ProdutoApiApplication.class, args);
+		SpringApplication.run(CupomApiApplication.class, args);
 	}
 
 }

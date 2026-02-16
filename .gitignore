@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
